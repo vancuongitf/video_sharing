@@ -1,7 +1,8 @@
 # Video Sharing
 
-URI: /video/home
-
+## Home screen
+### URI: /video/home
+```
 {
   "video": {
     "id": "111",
@@ -10,3 +11,4 @@ URI: /video/home
     "views": 1234
   }
 }
+```
